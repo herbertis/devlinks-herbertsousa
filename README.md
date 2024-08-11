@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#-tecnologias https://herbertis.github.io/devlinks-herbertsousa/">Develinks Herbert</a></h1>
+<h1 align="center"><a href="https://herbertis.github.io/devlinks-herbertsousa/">Develinks Herbert</a></h1>
  
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
